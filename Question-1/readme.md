@@ -16,7 +16,7 @@
 - Create a new File
 - Save the File
   ![plot](./image/save-File.png)
-- Now compile and run `./Apache%20C%20Programming%20Backend.c` file
+- Now compile and run `Apache C Programming Backend.c` file
 
 ## Additional Information
 
