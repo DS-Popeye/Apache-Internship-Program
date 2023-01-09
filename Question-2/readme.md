@@ -8,15 +8,15 @@
   ![plot](./image/select-empty-project.png)
 
 - Write project title
-  ![plot](./image/specify%20title.png)
+  ![plot](./image/specify-title.png)
 
 - Click on Finish Button
   ![plot](./image/Finish.png)
 
 - Create a new File
-  ![plot](./image/Create%20new%20file.png)
+  ![plot](./image/Create-new-file.png)
 - Save the File
-  ![plot](./image/Save%20the%20file.png)
+  ![plot](./image/Save-the-file.png)
 - Now compile and run `Matrix_Exponentiation_Approach.c` file
 - For Matrix Exponentiation Approach use `Matrix_Exponentiation_Approach(n)`
 - For Dynamic Programming Approach use `Dynamic_Programming_Approach(n)`
