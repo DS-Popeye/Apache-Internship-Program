@@ -65,4 +65,4 @@ F(2) = 2
 
 ## Final Result
 
-![plot](./image/Final-Output.png)
+![plot](./image/Final-output.png)
