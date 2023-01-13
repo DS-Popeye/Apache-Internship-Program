@@ -25,7 +25,7 @@ setup(
     description      = 'Python driver support for Apache AGE',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author           = 'MD RABIUL AWAL SH',
+    author           = 'MD RABIUL AWAL SHU',
     author_email     = 'rabiul35-487@diu.edu.bd',
     url              = 'https://github.com/DS-Popeye/Apache-Internship-Program/tree/main/Question-3',
     download_url     = 'https://github.com/DS-Popeye/Apache-Internship-Program/tree/main/Question-3' ,
