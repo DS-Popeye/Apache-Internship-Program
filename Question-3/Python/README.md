@@ -18,6 +18,7 @@ Apache AGE is:
 ### Requirements
 
 - Python 3.9 or higher
+- Python
 - This module runs on [psycopg2](https://www.psycopg.org/) and [antlr4-python3](https://pypi.org/project/antlr4-python3-runtime/)
 
 ```
